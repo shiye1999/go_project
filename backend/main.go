@@ -64,5 +64,4 @@ func main() {
 	sqlOpen()
 	sqlSelect()
 	sqlClose()
-
 }
